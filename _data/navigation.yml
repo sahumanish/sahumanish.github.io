@@ -19,7 +19,7 @@ main:
     url: /cv/
     
   - title: "Contact"
-    url: /contact/ 
+    url: /_pages/contact.md 
     
   #- title: "Guide"
    # url: /markdown/
