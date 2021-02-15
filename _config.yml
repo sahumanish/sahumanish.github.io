@@ -85,7 +85,7 @@ author:
   bio              : "Research Associate at Zuse Institute Berlin"
   location         : "Berlin, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : ""
   googlescholar    : "https://scholar.google.de/citations?user=OcVBk1MAAAAJ&hl=en"
   email            : "manish.ece07@gmail.com"
   researchgate     : 
