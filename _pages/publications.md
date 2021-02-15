@@ -10,4 +10,4 @@ You can also find my articles on my [(Google Scholar Profile)](https://scholar.g
 <br>
 <b>[Endo-Sim2Real: Consistency learning-based domain adaptation for instrument segmentation](Link)</b> <br>
 Manish Sahu, Anirban Mukhopadhyay, Angelika Szengel, Stefan Zachow.
-<i>International Conference on Medical Image Computing and Computer Assisted Intervention</i>. <b>2020/7/22</b>.
+<i>International Conference on Medical Image Computing and Computer Assisted Intervention</i>. <b>MICCAI 2020/</b>.
