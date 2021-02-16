@@ -12,4 +12,4 @@ Surgical  tool  segmentation  in  endoscopic  videos  is  an  im-portant compone
 
 [Download paper here](http://academicpages.github.io/files/paper7.pdf)
 
-Recommended citation: Manish Sahu, Ronja Strömsdörfer, Anirban Mukhopadhyay, Stefan Zachow. (2015). "Endo-Sim2Real: Consistency learning-based domain adaptation for instrument segmentation." <i>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2020)</i>. 1(3).
+Recommended citation: Manish Sahu, Ronja Strömsdörfer, Anirban Mukhopadhyay, Stefan Zachow. (2020). "Endo-Sim2Real: Consistency learning-based domain adaptation for instrument segmentation." <i>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2020)</i>. 1(3).
