@@ -4,13 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-You can also find my articles on my [(Google Scholar Profile)](https://scholar.google.de/citations?user=OcVBk1MAAAAJ&hl=en)
+<br>
+<i>You can also find my articles on my [Google Scholar Profile](https://scholar.google.de/citations?user=OcVBk1MAAAAJ&hl=en)</i>
 
 <br>
 <b>[Endo-Sim2Real: Consistency learning-based domain adaptation for instrument segmentation](Link)</b> <br>
 Manish Sahu, Anirban Mukhopadhyay, Angelika Szengel, Stefan Zachow (2020).
-<i>International Conference on Medical Image Computing and Computer Assisted Intervention</i>. <b>MICCAI 2020/</b>.
+<i>International Conference on Medical Image Computing and Computer Assisted Intervention</i>. <b>MICCAI 2020</b>.
 
 <br>
 <b>[Surgical phase recognition by learning phase transitions](Link)</b> <br>
@@ -25,7 +25,7 @@ Manish Sahu, Anirban Mukhopadhyay, Stefan Zachow (2020).
 <br>
 <b>[Analyzing laparoscopic cholecystectomy with deep learning: automatic detection of surgical tools and phases](Link)</b> <br>
 Manish Sahu, Angelika Szengel, Anirban Mukhopadhyay, Stefan Zachow (2020).
-<i>28th International Congress of the European Association for Endoscopic Surgery, 2020</i>. <b>EAES 2020/</b>.
+<i>28th International Congress of the European Association for Endoscopic Surgery, 2020</i>. <b>EAES 2020</b>.
 
 <br>
 <b>[Addressing multi-label imbalance problem of surgical tool detection using CNN](Link)</b> <br>
@@ -35,7 +35,7 @@ Manish Sahu, Anirban Mukhopadhyay, Angelika Szengel, Stefan Zachow (2017).
 <br>
 <b>[Tool and phase recognition using contextual CNN features](Link)</b> <br>
 Manish Sahu, Anirban Mukhopadhyay, Angelika Szengel, Stefan Zachow (2016).
-<i>International Conference on Medical Image Computing and Computer Assisted Intervention - M2CAI'16 Workshop - Surgical tool & phase detection challenge</i>. <b>M2CAI'16 Workshop/</b>.
+<i>International Conference on Medical Image Computing and Computer Assisted Intervention - M2CAI'16 Workshop - Surgical tool & phase detection challenge</i>. <b>M2CAI'16 Workshop</b>.
 
 <br>
 <b>[Instrument state recognition and tracking for effective control of robotized laparoscopic systems](Link)</b> <br>
