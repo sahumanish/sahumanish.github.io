@@ -7,9 +7,9 @@ author_profile: true
 <br>
 <i>You can also find my articles on my [Google Scholar Profile](https://scholar.google.de/citations?user=OcVBk1MAAAAJ&hl=en)</i>
 
-[Endo-Sim2Real: Consistency learning-based domain adaptation for instrument segmentation](https://github.com/sahumanish/sahumanish.github.io/blob/master/_publications/2020-07-22-Endo-Sim2Real-number-7.md)
-Manish Sahu, Ronja Strömsdörfer, Anirban Mukhopadhyay, Stefan Zachow (2020).
-International Conference on Medical Image Computing and Computer Assisted Intervention. MICCAI 2020.
+**[Endo-Sim2Real: Consistency learning-based domain adaptation for instrument segmentation](https://github.com/sahumanish/sahumanish.github.io/blob/master/_publications/2020-07-22-Endo-Sim2Real-number-7.md)** \\
+Manish Sahu, Ronja Strömsdörfer, Anirban Mukhopadhyay, Stefan Zachow (2020). \\
+*International Conference on Medical Image Computing and Computer Assisted Intervention*. **MICCAI 2020**.
 
 <br>
 <b>[Surgical phase recognition by learning phase transitions](Link)</b> <br>
