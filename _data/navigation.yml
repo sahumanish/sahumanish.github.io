@@ -22,7 +22,7 @@ main:
   #   url: /year-archive/
     
   - title: "Contact"
-    url: sahumanish.github.io/_pages/contact.md/  
+    url: /contact/  
     
   # - title: "Guide"
     # url: /markdown/
