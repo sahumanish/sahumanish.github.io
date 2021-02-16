@@ -28,7 +28,7 @@ Manish Sahu, Angelika Szengel, Anirban Mukhopadhyay, Stefan Zachow (2020).
 <i>28th International Congress of the European Association for Endoscopic Surgery, 2020</i>. <b>EAES 2020</b>.
 
 <br>
-<b>[Addressing multi-label imbalance problem of surgical tool detection using CNN](Link)</b> <br>
+<b>[Addressing multi-label imbalance problem of surgical tool detection using CNN](_publications/2017-06-01-Addressing multi-label imbalance problem of surgical tool detection using CNN-number-3)</b> <br>
 Manish Sahu, Anirban Mukhopadhyay, Angelika Szengel, Stefan Zachow (2017).
 <i>International journal of computer assisted radiology and surgery, 12(6), 1013-1020</i>.
 
