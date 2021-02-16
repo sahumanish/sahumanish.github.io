@@ -8,6 +8,7 @@ venue: 'International journal of computer assisted radiology and surgery'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Manish Sahu, Anirban Mukhopadhyay, Angelika Szengel, Stefan Zachow. (2015). &quot;Addressing multi-label imbalance problem of surgical tool detection using CNN.&quot; <i>Journal 1</i>. 1(3).'
 ---
+Purpose: A fully automated surgical tool detection framework is proposed for endoscopic video streams. State-of-the-art surgical tool detection methods rely on supervised one-vs-all or multi-class classification techniques, completely ignoring the co-occurrence relationship of the tools and the associated class imbalance. Methods: In this paper, we formulate tool detection as a multi-label classification task where tool co-occurrences are treated as separate classes. In addition, imbalance on tool co-occurrences is analyzed and stratification techniques are employed to address the imbalance during Convolutional Neural Network (CNN) training. Moreover, temporal smoothing is introduced as an online post-processing step to enhance run time prediction. Results: Quantitative analysis is performed on the M2CAI16 tool detection dataset to highlight the importance of stratification, temporal smoothing and the overall framework for tool detection. Conclusion: The analysis on tool imbalance, backed by the empirical results indicates the need and superiority of the proposed framework over state-of-the-art techniques.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
