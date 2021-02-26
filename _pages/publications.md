@@ -1,5 +1,6 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=OcVBk1MAAAAJ&hl=en)"
+layout: archive
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -7,6 +8,8 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+
+{% include base_path %}
 
 <b>[Simulation-to-Real domain adaptation with teacher-student learning for endoscopic instrument segmentation](https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/8123)</b> <br>
 <b>Manish Sahu</b>, Anirban Mukhopadhyay, Stefan Zachow. <br>
