@@ -1,7 +1,6 @@
 ---
-<!-- layout: archive -->
-<!-- title: "CV" -->
-title: "Manish Sahu"
+layout: archive
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://sahumanish.github.io/files/CV.pdf)
+[Click to view my up-to-date Curriculum Vitae [PDF]](http://sahumanish.github.io/files/CV.pdf)
