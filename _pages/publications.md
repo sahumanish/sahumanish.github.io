@@ -40,6 +40,9 @@ Hassan Al Hajj, Mathieu Lamard, Pierre-Henri Conze, Soumali Roychowdhury, Xiaowe
 <b>Manish Sahu</b>, Anirban Mukhopadhyay, Angelika Szengel, Stefan Zachow. <br>
 <i>International Journal of Computer Assisted Radiology and Surgery</i>. <b>IJCARS 2017</b>. <b>(Long Oral)</b>
 
+<p align="center">
+  <img src="https://sahumanish.github.io/files/chord_diagram.png?raw=true" alt="Photo" style="width: 150px;"/> 
+</p>
 
 <b>[Tool and phase recognition using contextual CNN features](https://arxiv.org/pdf/1610.08854)</b> <br>
 <b>Manish Sahu</b>, Anirban Mukhopadhyay, Angelika Szengel, Stefan Zachow. <br>
