@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar)](https://scholar.google.com/citations?hl=en&user=OcVBk1MAAAAJ)"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
 
 <b>[Simulation-to-Real domain adaptation with teacher-student learning for endoscopic instrument segmentation](https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/8123)</b> <br>
 <b>Manish Sahu</b>, Anirban Mukhopadhyay, Stefan Zachow. <br>
