@@ -4,10 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-<br>
+
 <b>[Simulation-to-Real domain adaptation with teacher-student learning for endoscopic instrument segmentation](https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/8123)</b> <br>
 <b>Manish Sahu</b>, Anirban Mukhopadhyay, Stefan Zachow. <br>
-<i>International Conference on Information Processing in Computer-Assisted Interventions</i>. <b>IPCAI 2021</b>. <br>
+<i>International Conference on Information Processing in Computer-Assisted Interventions</i>. <b>IPCAI 2021</b>.
 
 
 <b>[Endo-Sim2Real: Consistency learning-based domain adaptation for instrument segmentation](https://arxiv.org/abs/2007.11514)</b> <br>
