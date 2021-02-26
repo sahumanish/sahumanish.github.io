@@ -1,6 +1,7 @@
 ---
-layout: archive
-title: "CV"
+<!-- layout: archive -->
+<!-- title: "CV" -->
+title: "Manish Sahu"
 permalink: /cv/
 author_profile: true
 redirect_from:
