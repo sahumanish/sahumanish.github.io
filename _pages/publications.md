@@ -38,13 +38,12 @@ Hassan Al Hajj, Mathieu Lamard, Pierre-Henri Conze, Soumali Roychowdhury, Xiaowe
 <b>Manish Sahu</b>, Anirban Mukhopadhyay, Angelika Szengel, Stefan Zachow. <br>
 <i>International Journal of Computer Assisted Radiology and Surgery</i>. <b>IJCARS 2017</b>. <b>(Long Oral)</b>
 
-<!---
 <p align="left">
-  <img src="{{ site.url }}/files/chord_diagram.png?raw=true" alt="Chord diagram" style="height: 150px;"/> 
-  <img src="{{ site.url }}/files/chord_diagram.png?raw=true" alt="Upset plot" style="height: 150px;"/> 
+  <img src="{{ site.url }}/files/imgs/chord_diagram.png?raw=true" alt="Chord diagram" title="Chord diagram" height="150" hspace="20"/> 
+  <img src="{{ site.url }}/files/imgs/chord_diagram.png?raw=true" alt="Upset plot" title="Upset plot" height="150" hspace="20"/> 
 </p>
--->
 
+<!---
 <table>
   <tr>
     <td>Chord diagram</td>
@@ -55,7 +54,7 @@ Hassan Al Hajj, Mathieu Lamard, Pierre-Henri Conze, Soumali Roychowdhury, Xiaowe
     <td valign="top"><img src="{{ site.url }}/files/imgs/upset_plot.png?raw=true" alt="Upset plot" style="height: 150px;"/></td>
   </tr>
  </table>
-
+-->
 
 
 <b>[Instrument State Recognition and Tracking for Effective Control of Robotized Laparoscopic Systems](http://www.ijmerr.com/uploadfile/2015/1214/20151214025131468.pdf)</b> <br>
