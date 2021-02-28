@@ -46,3 +46,11 @@ author_profile: true
 </p>
 
 ---
+
+<b>Survey on using Video Sequences for Facial Analysis</b> <br>
+<i>Augmented Vision group of DFKI, TU Kaiserslautern</i>
+
+
+<b>Survey of Existing Speech Recognition Engines</b> <br>
+<i>Otto-von-Guericke University, Magdeburg </i>
+
