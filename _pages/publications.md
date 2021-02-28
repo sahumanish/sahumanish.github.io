@@ -51,8 +51,8 @@ Hassan Al Hajj, Mathieu Lamard, Pierre-Henri Conze, Soumali Roychowdhury, Xiaowe
     <td>Upset plot</td>
   </tr>
   <tr>
-    <td valign="top"><img src="{{ site.url }}/files/chord_diagram.png?raw=true" alt="Chord diagram" style="height: 150px;"/></td>
-    <td valign="top"><img src="{{ site.url }}/files/upset_plot.png?raw=true" alt="Upset plot" style="height: 150px;"/></td>
+    <td valign="top"><img src="{{ site.url }}/files/imgs/chord_diagram.png?raw=true" alt="Chord diagram" style="height: 150px;"/></td>
+    <td valign="top"><img src="{{ site.url }}/files/imgs/upset_plot.png?raw=true" alt="Upset plot" style="height: 150px;"/></td>
   </tr>
  </table>
 
