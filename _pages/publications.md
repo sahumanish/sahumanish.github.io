@@ -39,8 +39,8 @@ Hassan Al Hajj, Mathieu Lamard, Pierre-Henri Conze, Soumali Roychowdhury, Xiaowe
 <i>International Journal of Computer Assisted Radiology and Surgery</i>. <b>IJCARS 2017</b>. <b>(Long Oral)</b>
 
 <p align="left">
-  <img src="{{ site.url }}/files/imgs/chord_diagram.png?raw=true" alt="Chord diagram" title="Chord diagram" height="150" hspace="20"/> 
-  <img src="{{ site.url }}/files/imgs/chord_diagram.png?raw=true" alt="Upset plot" title="Upset plot" height="150" hspace="20"/> 
+  <img src="{{ site.url }}/files/imgs/chord_diagram.png?raw=true" alt="Chord diagram" title="Chord diagram" hspace="20" style="height: 200px;"/> 
+  <img src="{{ site.url }}/files/imgs/upset_plot.png?raw=true" alt="Upset plot" title="Upset plot" style="height: 200px;"/> 
 </p>
 
 <!---
