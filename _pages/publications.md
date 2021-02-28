@@ -6,7 +6,9 @@ author_profile: true
 toc: true
 ---
 
+<!---
 [Google Scholar](https://scholar.google.com/citations?user=OcVBk1MAAAAJ&hl=en)
+-->
 
 <!---
 {% include toc %}
