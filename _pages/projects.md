@@ -38,7 +38,7 @@ author_profile: true
 # Older
 
 <b>Facial Expression Recognition</b> <br>
-<i>Robotics Research Lab, TU Kaiserslautern</i>
+<i>[Robotics Research Lab](https://agrosy.informatik.uni-kl.de/en/robots/more-robots/roman/), TU Kaiserslautern</i>
 
 <p align="left">
   <img src="{{ site.url }}/files/imgs/Project_FacialExpressionRecogntion_ROMAN.jpg?raw=true" alt="Robot-ROMAN" title="Robot-ROMAN" hspace="20" style="height: 200px;"/> 
