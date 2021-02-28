@@ -8,9 +8,9 @@ toc: true
 
 [Google Scholar](https://scholar.google.com/citations?user=OcVBk1MAAAAJ&hl=en)
 
-
+<!---
 {% include toc %}
-
+-->
 
 # Journal Article
 
@@ -50,8 +50,8 @@ Hassan Al Hajj, Mathieu Lamard, Pierre-Henri Conze, Soumali Roychowdhury, Xiaowe
 <!---
 <table>
   <tr>
-    <td>Chord diagram</td>
-    <td>Upset plot</td>
+    <td><b style="font-size:30px">Chord diagram</b></td>
+    <td><b style="font-size:30px">Upset plot</b></td>
   </tr>
   <tr>
     <td valign="top"><img src="{{ site.url }}/files/imgs/chord_diagram.png?raw=true" alt="Chord diagram" style="height: 150px;"/></td>
