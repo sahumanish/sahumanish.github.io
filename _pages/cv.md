@@ -16,21 +16,6 @@ redirect_from:
 <!-- <iframe src="http://sahumanish.github.io/files/CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 
 
-Education
-======
-* 2012 – 2015: MSc Electrical Engineering and Information Technology
-  * Otto-von-Guericke University, Magdeburg (Germany)  
-  * Courses included: Digital Information Processing ▪ Speech Recognition ▪ Image Understanding & Pattern Recognition
-  
-* 2013 – 2014: Exchange student, Computer Science 
-  * TU Kaiserslautern, Kaiserslautern (Germany)  
-  * Courses included: Computer Vision ▪ Autonomous Mobile Robots ▪ Multimedia Information Retrieval
-  
-* 2007 – 2011: Bachelor Of Technology Electronics 
-  * National Institute of Technology, Surat (India)   
-  * Courses included: ▪	Embedded Systems ▪ Robotics
-
-
 Work experience
 ======
 * Oct.2015 – Present: Researcher
@@ -48,7 +33,23 @@ Work experience
 * Jul.2011 - Aug.2012: Test Analyst
   * IBM India Pvt. Ltd., Pune (India)
   * Duties included: Automated test scripts for faster and effective testing of software
+
+
+Education
+======
+* 2012 – 2015: MSc Electrical Engineering and Information Technology
+  * Otto-von-Guericke University, Magdeburg (Germany)  
+  * Courses included: Digital Information Processing ▪ Speech Recognition ▪ Image Understanding & Pattern Recognition
   
+* 2013 – 2014: Exchange student, Computer Science 
+  * TU Kaiserslautern, Kaiserslautern (Germany)  
+  * Courses included: Computer Vision ▪ Autonomous Mobile Robots ▪ Multimedia Information Retrieval
+  
+* 2007 – 2011: Bachelor Of Technology Electronics 
+  * National Institute of Technology, Surat (India)   
+  * Courses included: ▪	Embedded Systems ▪ Robotics
+
+
 Technical Reviewer
 ======
 * Journal: IEEE-BHI ▪ IEEE-VIS ▪ IJCARS
