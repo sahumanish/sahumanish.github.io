@@ -20,7 +20,10 @@ main:
         
   # - title: "Blogs"
   #   url: /year-archive/
-    
+
+  - title: "Projects"
+    url: /projects/
+  
   - title: "Contact"
     url: /contact/  
     
