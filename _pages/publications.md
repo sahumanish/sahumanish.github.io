@@ -18,11 +18,20 @@ toc: true
 <b>Manish Sahu</b>, Anirban Mukhopadhyay, Stefan Zachow. <br>
 <i>International Journal of Computer Assisted Radiology and Surgery (under review)</i>. <b>IPCAI 2021 (Oral)</b>.
 
+<p align="left">
+  <img src="{{ site.url }}/files/imgs/2021_Simulation-to-Real.png?raw=true" alt="Simulation-to-Real" title="Simulation-to-Real" style="height: 200px;"/> 
+</p>
+
 ---
 
 <b>[Surgical phase recognition by learning phase transitions](https://www.degruyter.com/document/doi/10.1515/cdbme-2020-0037/html)</b> <br>
 <b>Manish Sahu</b>, Angelika Szengel, Anirban Mukhopadhyay, Stefan Zachow. <br>
 <i>Current Directions in Biomedical Engineering</i>. <b>CDBME 2020</b>. <b>(Best-Paper Award Nomination)</b>
+
+<p align="left">
+  <img src="{{ site.url }}/files/imgs/2020_surgical_phase_recognition_aprroach.png?raw=true" alt="State-LSTM" title="State-LSTM" hspace="20" style="height: 200px;"/> 
+  <img src="{{ site.url }}/files/imgs/2020_surgical_phase_recognition_corrplot.png?raw=true" alt="2020_corrplot" title="2020_corrplot" style="height: 200px;"/> 
+</p>
 
 ---
 
@@ -74,6 +83,10 @@ Hassan Al Hajj, Mathieu Lamard, Pierre-Henri Conze, Soumali Roychowdhury, Xiaowe
 <b>Manish Sahu</b>, Ronja Strömsdörfer, Anirban Mukhopadhyay, Stefan Zachow. <br>
 <i>International Conference on Medical Image Computing and Computer Assisted Intervention</i>. <b>MICCAI 2020</b>. <b>(Oral)</b>
 <i>Preprint. arXiv:2007.11514</i>
+
+<p align="left">
+  <img src="{{ site.url }}/files/imgs/2020_Endo-Sim2Real.png?raw=true" alt="Endo-Sim2Real" title="Endo-Sim2Real" style="height: 200px;"/> 
+</p>
 
 ---
 
