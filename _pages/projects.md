@@ -33,3 +33,16 @@ author_profile: true
 
 
 ---
+
+
+# Older
+
+<b>Facial Expression Recognition</b> <br>
+<i>Robotics Research Lab, TU Kaiserslautern</i>
+
+<p align="left">
+  <img src="{{ site.url }}/files/imgs/Project_FacialExpressionRecogntion_ROMAN.jpg?raw=true" alt="Robot-ROMAN" title="Robot-ROMAN" hspace="20" style="height: 200px;"/> 
+  <img src="{{ site.url }}/files/imgs/Project_FacialExpressionRecogntion_Pipeline.png?raw=true" alt="FER Pipeline" title="FER Pipeline" style="height: 200px;"/> 
+</p>
+
+---
