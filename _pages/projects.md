@@ -7,29 +7,29 @@ author_profile: true
 
 # Current
 
-<b>[Comprehensive Surgical Landscape Guidance System for Immersive Assistance in Minimally-invasive and Microscopic Interventions (COMPASS)](https://www.technik-zum-menschen-bringen.de/projekte/compass-1)</b> <br>
+<b>[Comprehensive Surgical Landscape Guidance System for Immersive Assistance in Minimally-invasive and Microscopic Interventions (COMPASS)](https://www.zib.de/projects/comprehensive-surgical-landscape-guidance-system-immersive-assistance-minimally-invasive-and)</b> <br>
+<b>Partners:</b> Klinikum rechts der Isar der Technischen - Universität München; Universität Leipzig; Fraunhofer-Institut für Nachrichtentechnik - Heinrich-Hertz-Institut (HHI), Berlin; Localite GmbH, St. Augustin; C.R.S. iiMotion GmbH, Villingen-Schwenningen; VISUS Health IT GmbH, Bochum; NUROMEDIA GmbH, Köln <br>
+<i>Funding: [Federal Ministry of Education and Research (BMBF)](https://www.technik-zum-menschen-bringen.de/projekte/compass-1)</i>
+
+
+<!---
+<p align="left">
+  <img src="{{ site.url }}/files/imgs/BIOPASS_Visualization.png?raw=true" alt="BIOPASS" title="BIOPASS" hspace="20" style="height: 200px;"/> 
+  <img src="{{ site.url }}/files/imgs/BIOPASS_Visualization.png?raw=true" alt="BIOPASS" title="BIOPASS" style="height: 200px;"/> 
+</p>
+-->
 
 ---
 
 # Past
 
-<b>[Image, Ontology and Process based Assistance for Minimally Invasive Endoscopic Surgery (BIOPASS)](https://www.interaktive-technologien.de/projekte/biopass)</b> <br>
+<b>[Image, Ontology and Process based Assistance for Minimally Invasive Endoscopic Surgery (BIOPASS)](https://www.zib.de/projects/image-ontology-and-process-based-assistance-minimally-invasive-endoscopic-surgery)</b> <br>
+<b>Partners:</b> Innovation Center Computer Assisted Surgery (ICCAS), Leipzig; Institut für Medizinische Informatik, Statistik und Epidemiologie (IMISE), Leipzig; Klinik und Poliklinik für Hals-, Nasen-, Ohrenheilkunde, Leipzig; Institut für Minimal-invasive Interdisziplinäre Therapeutische Intervention (MITI), München; Chirurgische Klinik und Poliklinik, Bereich Allgemein- und Viszeralchirurgie, München; Localite GmbH, St. Augustin; Dornheim Medical Images GmbH, Magdeburg <br>
+<i>Funding: [Federal Ministry of Education and Research (BMBF)](https://www.interaktive-technologien.de/projekte/biopass)</i>
 
-<!---
 <p align="left">
-  <img src="{{ site.url }}/files/imgs/chord_diagram.png?raw=true" alt="Chord diagram" title="Chord diagram" hspace="20" style="height: 200px;"/> 
-  <img src="{{ site.url }}/files/imgs/upset_plot.png?raw=true" alt="Upset plot" title="Upset plot" style="height: 200px;"/> 
+  <img src="{{ site.url }}/files/imgs/BIOPASS_Visualization.png?raw=true" alt="BIOPASS" title="BIOPASS" style="height: 200px;"/> 
 </p>
-<table>
-  <tr>
-    <td><b style="font-size:30px">Chord diagram</b></td>
-    <td><b style="font-size:30px">Upset plot</b></td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="{{ site.url }}/files/imgs/chord_diagram.png?raw=true" alt="Chord diagram" style="height: 150px;"/></td>
-    <td valign="top"><img src="{{ site.url }}/files/imgs/upset_plot.png?raw=true" alt="Upset plot" style="height: 150px;"/></td>
-  </tr>
- </table>
--->
+
 
 ---
