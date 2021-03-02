@@ -71,6 +71,16 @@ Hassan Al Hajj, Mathieu Lamard, Pierre-Henri Conze, Soumali Roychowdhury, Xiaowe
  </table>
 -->
 
+<!---
+```diff
++ Green
+- Red
+! Orange
+```
+www.emoji-cheat-sheet.com
+-->
+
+
 ---
 
 <b>[Instrument State Recognition and Tracking for Effective Control of Robotized Laparoscopic Systems](http://www.ijmerr.com/uploadfile/2015/1214/20151214025131468.pdf)</b> <br>
