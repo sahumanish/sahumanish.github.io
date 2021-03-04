@@ -25,7 +25,7 @@ Klinikum rechts der Isar der Technischen - Universität München ▪ Universitä
 
 <b>[Image, Ontology and Process based Assistance for Minimally Invasive Endoscopic Surgery (BIOPASS)](https://www.zib.de/projects/image-ontology-and-process-based-assistance-minimally-invasive-endoscopic-surgery)</b> <br>
 <b>Partners</b> : two university hospitals, two companies, three research institutes <br> 
-Innovation Center Computer Assisted Surgery (ICCAS), Leipzig ▪ Institut für Medizinische Informatik, Statistik und Epidemiologie (IMISE), Leipzig ▪ Klinik und Poliklinik für Hals-, Nasen-, Ohrenheilkunde, Leipzig ▪ Institut für Minimal-invasive Interdisziplinäre Therapeutische Intervention (MITI), München ▪ Chirurgische Klinik und Poliklinik, Bereich Allgemein- und Viszeralchirurgie, München ▪ Localite GmbH, St. Augustin ∘ Dornheim Medical Images GmbH, Magdeburg <br>
+Innovation Center Computer Assisted Surgery (ICCAS), Leipzig ▪ Institut für Medizinische Informatik, Statistik und Epidemiologie (IMISE), Leipzig ▪ Klinik und Poliklinik für Hals-, Nasen-, Ohrenheilkunde, Leipzig ▪ Institut für Minimal-invasive Interdisziplinäre Therapeutische Intervention (MITI), München ▪ Chirurgische Klinik und Poliklinik, Bereich Allgemein- und Viszeralchirurgie, München ▪ Localite GmbH, St. Augustin ▪ Dornheim Medical Images GmbH, Magdeburg <br>
 <b>Funding</b> : <i>[Federal Ministry of Education and Research (BMBF)](https://www.interaktive-technologien.de/projekte/biopass)</i> <br>
 <b>Period</b> : 2015 - 2018
 
