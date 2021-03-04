@@ -29,10 +29,28 @@ Innovation Center Computer Assisted Surgery (ICCAS), Leipzig ▪ Institut für M
 <b>Funding</b> : <i>[Federal Ministry of Education and Research (BMBF)](https://www.interaktive-technologien.de/projekte/biopass)</i> <br>
 <b>Period</b> : 2015 - 2018
 
+<!---
 <p align="left">
   <img src="{{ site.url }}/files/imgs/BIOPASS_Visualization.png?raw=true" alt="BIOPASS" title="BIOPASS" style="height: 200px;"/> 
 </p>
+-->
 
+<details open="">
+  <summary>
+    ::marker
+		Pipeline: BIOPASS
+	</summary>
+	<div>
+		<a href="{{ site.url }}/files/imgs/BIOPASS_Visualization.png">
+      <figure style="margin:2rem 0">
+        <img style="max-width:100%;width:auto;height:auto" src="{{ site.url }}/files/imgs/BIOPASS_Visualization.png" width="800" height="54">
+        <figcaption>
+          <small></small>
+        </figcaption>
+			</figure>
+		</a>
+	</div>
+</details>
 
 ---
 
