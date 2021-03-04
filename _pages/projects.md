@@ -40,7 +40,7 @@ Innovation Center Computer Assisted Surgery (ICCAS), Leipzig ▪ Institut für M
   <div>
     <a href="{{ site.url }}/files/imgs/BIOPASS_Visualization.png">
       <figure style="margin:2rem 0">
-        <img style="max-width:100%;width:auto;height:auto" src="{{ site.url }}/files/imgs/BIOPASS_Visualization.png" width="600" height="200">
+        <img style="max-width:100%;width:auto;height:auto" src="{{ site.url }}/files/imgs/BIOPASS_Visualization.png" title="BIOPASS" width="600" height="200">
         <figcaption><small></small></figcaption>
       </figure>
     </a>
