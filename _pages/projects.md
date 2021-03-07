@@ -36,7 +36,7 @@ Innovation Center Computer Assisted Surgery (ICCAS), Leipzig ▪ Institut für M
 -->
 
 <details open="">
-  <summary>Pipeline: BIOPASS </summary>
+  <summary>BIOPASS : Visualisation</summary>
   <div>
     <a href="{{ site.url }}/files/imgs/BIOPASS_Visualization.png">
       <figure style="margin:2rem 0">
