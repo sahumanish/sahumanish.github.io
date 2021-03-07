@@ -13,7 +13,12 @@ Klinikum rechts der Isar der Technischen - Universität München ▪ Universitä
 <b>Funding</b> : <i>[Federal Ministry of Education and Research (BMBF)](https://www.technik-zum-menschen-bringen.de/projekte/compass-1)</i> <br>
 <b>Period</b> : 2018 - 2021
 
-
+<!---
+<p class="page__date">
+  <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> 
+  <time datetime="2020-06-21T00:00:00-08:00">June 23, 2020</time>
+</p>
+-->
 
 <!---
 ← ↑ → ↓ ↔ ↕ ↖ ↗ ↘ ↙ ⇅ ⇆ ↰↱↲↳↴↵ ∴ ∵ ∶ ∷ ∸ ∹ ∺ ∻ ∼ ∽ ∾ ✓✔✕✖ ≠ ≡ ≤ ≥ ∀∁∂∃∄∅∆∇∈∉∊∋∌∍∎∏∐∑−±∓∔∕∖∗∘∙√∛∜∝∞∟∠∡∢∣∤∥∦∧∨∩∪∫∲ ¼ ½ ¾ ÷ ×
