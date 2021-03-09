@@ -11,6 +11,7 @@ Locations of key files/directories
     _posts/
     _teaching/
     _talks/
+* All pages require header information with HTML `_layouts` and `permalink`
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
