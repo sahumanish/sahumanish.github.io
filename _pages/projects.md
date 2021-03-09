@@ -64,20 +64,18 @@ Innovation Center Computer Assisted Surgery (ICCAS), Leipzig ▪ Institut für M
 <i>[Robotics Research Lab](https://agrosy.informatik.uni-kl.de/en/robots/more-robots/roman/), TU Kaiserslautern</i> <br>
 <b>Year</b> : 2014
 
-<!--
+
 <p align="left">
   <img src="{{ site.url }}/files/imgs/Project_FacialExpressionRecogntion_ROMAN.jpg?raw=true" alt="Robot-ROMAN" title="Robot-ROMAN" hspace="20" style="height: 200px;"/> 
   <img src="{{ site.url }}/files/imgs/Project_FacialExpressionRecogntion_Pipeline.png?raw=true" alt="FER Pipeline" title="FER Pipeline" style="height: 200px;"/> 
 </p>
--->
 
+<!--
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-  <!-- Menu -->
   <ol class="carousel-indicators">
     <li data-target="#carousel" data-slide-to="0" class="active"></li>
     <li data-target="#carousel" data-slide-to="1"></li>
   </ol>
-  <!-- Items -->
   <div class="carousel-inner" markdown="0">
     <div class="item active">
       <img src="{{ site.url }}{{ site.baseurl }}/files/imgs/Project_FacialExpressionRecogntion_ROMAN.jpg" alt="1 Robot-ROMAN" />
@@ -95,6 +93,7 @@ Innovation Center Computer Assisted Surgery (ICCAS), Leipzig ▪ Institut für M
     <span class="sr-only">Next</span>
   </a>
 </div>
+-->
 
 ---
 
