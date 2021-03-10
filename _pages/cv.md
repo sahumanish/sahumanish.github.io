@@ -49,6 +49,11 @@ Education
   * National Institute of Technology, Surat (India)   
   * Courses included: ▪	Embedded Systems ▪ Robotics
 
+<!-- 
+Conference Presentation
+======
+* MICCAI2020, CURAC2020, EAES2020, IPCAI2017, MICCAI-M2CAI2016
+-->
 
 Technical Reviewer
 ======
