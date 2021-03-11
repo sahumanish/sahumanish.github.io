@@ -16,3 +16,11 @@ Locations of key files/directories
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
 -->
+
+<!---
+Other Templates
+* [Minimal mistakes](https://mmistakes.github.io/minimal-mistakes/)
+* [al-folio](https://github.com/alshedivat/al-folio)
+* [Allen Lab](https://www.allanlab.org/)
+* [Spencer Bryngelson website](https://github.com/sbryngelson/sbryngelson.github.io)
+-->
