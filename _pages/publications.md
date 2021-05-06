@@ -22,6 +22,7 @@ toc: true
 
 <p align="left">
   <img src="{{ site.url }}/files/imgs/2021_Simulation-to-Real.png?raw=true" alt="Simulation-to-Real" title="Simulation-to-Real" style="height: 200px;"/> 
+  <img src="{{ site.url }}/files/imgs/2021_IJCARS_Comparison_Cholec.png?raw=true" alt="Comparison-Cholec" title="Comparison-Cholec" style="height: 200px;"/>
 </p>
 
 ---
