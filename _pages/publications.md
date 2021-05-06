@@ -18,11 +18,11 @@ toc: true
 
 <b>[Simulation-to-Real domain adaptation with teacher-student learning for endoscopic instrument segmentation](https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/8123)</b> <br>
 <b>Manish Sahu</b>, Anirban Mukhopadhyay, Stefan Zachow. <br>
-<i>International Journal of Computer Assisted Radiology and Surgery (under review)</i>. <b>IPCAI 2021 (Oral)</b>.
+<i>International Journal of Computer Assisted Radiology and Surgery (accepted for publication)</i>. <b>IPCAI 2021 (Oral)</b>.
 
 <p align="left">
   <img src="{{ site.url }}/files/imgs/2021_Simulation-to-Real.png?raw=true" alt="Simulation-to-Real" title="Simulation-to-Real" style="height: 200px;"/> 
-  <img src="{{ site.url }}/files/imgs/2021_IJCARS_Comparison_Cholec.png?raw=true" alt="Comparison-Cholec" title="Comparison-Cholec" style="height: 200px;"/>
+  <img src="{{ site.url }}/files/imgs/2021_IJCARS_Comparison_Cholec.png?raw=true" alt="Comparison-Cholec" title="Comparison-Cholec" style="height: 250px;"/>
 </p>
 
 ---
