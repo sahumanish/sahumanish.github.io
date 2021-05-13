@@ -14,15 +14,29 @@ toc: true
 {% include toc %}
 -->
 
-# Journal Article
+<!--- # Journal Article -->
+<!--- # Conferences with proceedings -->
 
-<b>[Simulation-to-Real domain adaptation with teacher-student learning for endoscopic instrument segmentation](https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/8123)</b> <br>
+# Articles
+
+<b>[Simulation-to-Real domain adaptation with teacher-student learning for endoscopic instrument segmentation](https://rdcu.be/ckwHg)</b> <br>
 <b>Manish Sahu</b>, Anirban Mukhopadhyay, Stefan Zachow. <br>
-<i>International Journal of Computer Assisted Radiology and Surgery (accepted for publication)</i>. <b>IPCAI 2021 (Oral)</b>.
+<i>International Journal of Computer Assisted Radiology and Surgery</i>. <b>In: IPCAI 2021</b>.
 
 <p align="left">
   <img src="{{ site.url }}/files/imgs/2021_Simulation-to-Real.png?raw=true" alt="Simulation-to-Real" title="Simulation-to-Real" style="height: 200px;"/> 
   <img src="{{ site.url }}/files/imgs/2021_IJCARS_Comparison_Cholec.png?raw=true" alt="Comparison-Cholec" title="Comparison-Cholec" style="height: 250px;"/>
+</p>
+
+---
+
+<b>[Endo-Sim2Real: Consistency learning-based domain adaptation for instrument segmentation](https://arxiv.org/abs/2007.11514)</b> <br>
+<b>Manish Sahu</b>, Ronja Strömsdörfer, Anirban Mukhopadhyay, Stefan Zachow. <br>
+<i>Proc. International Conference on Medical Image Computing and Computer Assisted Intervention</i>. <b>MICCAI 2020</b>. <b>(Oral)</b>
+<i>Preprint. arXiv:2007.11514</i>
+
+<p align="left">
+  <img src="{{ site.url }}/files/imgs/2020_Endo-Sim2Real.png?raw=true" alt="Endo-Sim2Real" title="Endo-Sim2Real" style="height: 200px;"/> 
 </p>
 
 ---
@@ -90,22 +104,10 @@ www.emoji-cheat-sheet.com
 
 ---
 
-# Conferences with proceedings
-
-<b>[Endo-Sim2Real: Consistency learning-based domain adaptation for instrument segmentation](https://arxiv.org/abs/2007.11514)</b> <br>
-<b>Manish Sahu</b>, Ronja Strömsdörfer, Anirban Mukhopadhyay, Stefan Zachow. <br>
-<i>International Conference on Medical Image Computing and Computer Assisted Intervention</i>. <b>MICCAI 2020</b>. <b>(Oral)</b>
-<i>Preprint. arXiv:2007.11514</i>
-
-<p align="left">
-  <img src="{{ site.url }}/files/imgs/2020_Endo-Sim2Real.png?raw=true" alt="Endo-Sim2Real" title="Endo-Sim2Real" style="height: 200px;"/> 
-</p>
-
----
 
 <b>[A Multimodal Nonverbal Human-robot Communication System](http://congress.cimne.com/iccb2015/admin/files/FilePaper/p90.pdf)</b> <br>
 Salah Saleh, <b>Manish Sahu</b>, Zuhair Zafar, Karsten Berns. <br>
-<i>International Conference on Computational Bioengineering</i>. <b>ICCB 2015</b>.
+<i>Proc. International Conference on Computational Bioengineering</i>. <b>ICCB 2015</b>.
 
 ---
 
