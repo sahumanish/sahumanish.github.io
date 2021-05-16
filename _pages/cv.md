@@ -20,7 +20,7 @@ Work experience
 ======
 * Oct.2015 – Present: Researcher
   * Zuse Institute Berlin (ZIB), Berlin (Germany) 
-  * Duties included: Research and development of deep-learning approaches for endoscopic video analysis
+  * Duties included: Research and development of intelligent diagnostic and navigation assistance tools in the operating room
 
 * Jul.2018 - Oct.2018: Data Scientist
   * 1000shapes Gmbh, Berlin (Germany)
@@ -28,7 +28,7 @@ Work experience
   
 * Sep.2014 - Apr.2015: Research Assistant (Master student)
   * Siemens AG, Erlangen (Germany)
-  * Duties included: Application of Machine Learning and Computer Vision in Medical Robotics (exact topic and content is confidential)
+  * Duties included: Application of Machine Learning and Computer Vision in Medical Robotics
   
 * Jul.2011 - Aug.2012: Test Analyst
   * IBM India Pvt. Ltd., Pune (India)
@@ -58,4 +58,4 @@ Conference Presentation
 Technical Reviewer
 ======
 * Journal: IEEE-BHI ▪ IEEE-VIS ▪ IJCARS
-* Conference: MICCAI2019
+* Conference: MICCAI
