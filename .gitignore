@@ -1,2 +1,22 @@
+# Directories
 _site/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project settings
+.spyderproject
+.spyproject
+.idea
+.vscode
 
