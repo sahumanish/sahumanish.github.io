@@ -18,7 +18,7 @@ redirect_from:
 
 Work experience
 ======
-* Oct.2015 – Present: Researcher
+* Oct.2015 – Present: Research Associate
   * Zuse Institute Berlin (ZIB), Berlin (Germany) 
   * Duties included: Research and development of intelligent diagnostic and navigation assistance tools in the operating room
 
@@ -32,22 +32,22 @@ Work experience
   
 * Jul.2011 - Aug.2012: Test Analyst
   * IBM India Pvt. Ltd., Pune (India)
-  * Duties included: Automated test scripts for faster and effective testing of software
+  * Duties included: Test scripting for faster and effective testing of software
 
 
 Education
 ======
 * 2012 – 2015: MSc Electrical Engineering and Information Technology
   * Otto-von-Guericke University, Magdeburg (Germany)  
-  * Courses included: Digital Information Processing ▪ Speech Recognition ▪ Image Understanding & Pattern Recognition
+  * Focus: Digital Information Processing ▪ Speech Recognition ▪ Medical Imaging
   
 * 2013 – 2014: Exchange student, Computer Science 
   * TU Kaiserslautern, Kaiserslautern (Germany)  
-  * Courses included: Computer Vision ▪ Autonomous Mobile Robots ▪ Multimedia Information Retrieval
+  * Focus: Computer Vision ▪ Machine Learning ▪ Autonomous Robots
   
 * 2007 – 2011: Bachelor Of Technology Electronics 
   * National Institute of Technology, Surat (India)   
-  * Courses included: ▪	Embedded Systems ▪ Robotics
+  * Focus: Digital Signal Processing ▪ Embedded Systems ▪ Robotics
 
 <!-- 
 Conference Presentation
