@@ -22,7 +22,7 @@ toc: true
 <b>[Simulation-to-Real domain adaptation with teacher-student learning for endoscopic instrument segmentation](https://rdcu.be/ckwHg)</b> <br>
 <b>Manish Sahu</b>, Anirban Mukhopadhyay, Stefan Zachow. <br>
 <i>International Journal of Computer Assisted Radiology and Surgery</i>. <br>
-<b>“Machine Learning for CAI Award: Honorary Mention” and “Audience Award for Best Innovation : Honorary Mention” - IPCAI 2021</b>.
+<b>Machine Learning for CAI Award: Honorary Mention</b> and <b>Audience Award for Best Innovation: Honorary Mention - IPCAI 2021</b>.
 
 <p align="left">
   <img src="{{ site.url }}/files/imgs/2021_Simulation-to-Real.png?raw=true" alt="Simulation-to-Real" title="Simulation-to-Real" style="height: 200px;"/> 
@@ -37,7 +37,7 @@ toc: true
 <i>Preprint. arXiv:2007.11514</i>
 
 <p align="left">
-  <img src="{{ site.url }}/files/imgs/2020_MICCAI_Abstract.png?raw=true" alt="Endo-Sim2Real" title="Endo-Sim2Real" style="height: 200px;"/> 
+  <img src="{{ site.url }}/files/imgs/2020_MICCAI_Abstract.png?raw=true" alt="Endo-Sim2Real" title="Endo-Sim2Real" style="height: 400px;"/> 
 </p>
 
 ---
