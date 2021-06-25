@@ -11,7 +11,8 @@ redirect_from:
 
 # About Me
 
-I am a [Research Associate](https://www.zib.de/members/sahu) in the Computational Diagnosis and Therapy Planning group of [Zuse Institute Berlin](https://www.zib.de/research/solutions-individualized-medicine).
+I am a [Research Associate](https://www.zib.de/members/sahu) in the Computational Diagnosis and Therapy Planning group of [Zuse Institute Berlin](https://www.zib.de/research/solutions-individualized-medicine) as well as a doctoral candidate in the [Computer Vision laboratory](https://www.cv.tu-berlin.de/menue/computer_vision_remote_sensing/parameter/en/) of [Technical University Berlin](https://www.tu.berlin/en/). 
+
 My interests lie in research and development of deep learning solutions for computer assisted surgeries and medical image analysis.
 
 
