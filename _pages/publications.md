@@ -21,7 +21,8 @@ toc: true
 
 <b>[Simulation-to-Real domain adaptation with teacher-student learning for endoscopic instrument segmentation](https://rdcu.be/ckwHg)</b> <br>
 <b>Manish Sahu</b>, Anirban Mukhopadhyay, Stefan Zachow. <br>
-<i>International Journal of Computer Assisted Radiology and Surgery</i>. <b>In: IPCAI 2021</b>.
+<i>International Journal of Computer Assisted Radiology and Surgery</i>. <br>
+<b>“Machine Learning for CAI Award: Honorary Mention” and “Audience Award for Best Innovation : Honorary Mention” - IPCAI 2021</b>.
 
 <p align="left">
   <img src="{{ site.url }}/files/imgs/2021_Simulation-to-Real.png?raw=true" alt="Simulation-to-Real" title="Simulation-to-Real" style="height: 200px;"/> 
@@ -36,14 +37,15 @@ toc: true
 <i>Preprint. arXiv:2007.11514</i>
 
 <p align="left">
-  <img src="{{ site.url }}/files/imgs/2020_Endo-Sim2Real.png?raw=true" alt="Endo-Sim2Real" title="Endo-Sim2Real" style="height: 200px;"/> 
+  <img src="{{ site.url }}/files/imgs/2020_MICCAI_Abstract.png?raw=true" alt="Endo-Sim2Real" title="Endo-Sim2Real" style="height: 200px;"/> 
 </p>
 
 ---
 
 <b>[Surgical phase recognition by learning phase transitions](https://www.degruyter.com/document/doi/10.1515/cdbme-2020-0037/html)</b> <br>
 <b>Manish Sahu</b>, Angelika Szengel, Anirban Mukhopadhyay, Stefan Zachow. <br>
-<i>Current Directions in Biomedical Engineering</i>. <b>CDBME 2020</b>. <b>(Best-Paper Award Nomination)</b>
+<i>Current Directions in Biomedical Engineering</i>. <b>CDBME 2020</b>. <br>
+<b>Nominated for Best Paper Award - CURAC2020</b>
 
 <p align="left">
   <img src="{{ site.url }}/files/imgs/2020_surgical_phase_recognition_aprroach.png?raw=true" alt="State-LSTM" title="State-LSTM" hspace="20" style="height: 200px;"/> 
@@ -66,7 +68,8 @@ Hassan Al Hajj, Mathieu Lamard, Pierre-Henri Conze, Soumali Roychowdhury, Xiaowe
 
 <b>[Addressing multi-label imbalance problem of Surgical Tool Detection using CNN](https://drive.google.com/file/d/0B5iP1X0ShMhta0FleEU3OG1Hd2s/view)</b> <br>
 <b>Manish Sahu</b>, Anirban Mukhopadhyay, Angelika Szengel, Stefan Zachow. <br>
-<i>International Journal of Computer Assisted Radiology and Surgery</i>. <b>IJCARS 2017</b>. <b>(Long Oral)</b>
+<i>International Journal of Computer Assisted Radiology and Surgery</i>. <b>IJCARS 2017</b>. <br>
+<b>Selected long oral Presentations - IPCAI2017</b>
 
 <p align="left">
   <img src="{{ site.url }}/files/imgs/chord_diagram.png?raw=true" alt="Chord diagram" title="Chord diagram" hspace="20" style="height: 200px;"/> 
