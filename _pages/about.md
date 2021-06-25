@@ -16,7 +16,7 @@ I am a [Research Associate](https://www.zib.de/members/sahu) in the Computationa
 My interests lie in research and development of deep learning solutions for computer assisted surgeries and medical image analysis.
 
 
-## [News](https://sahumanish.github.io/news/)
+## News
 
 * __[23.Jun.2021]__ Paper “Simulation-to-Real domain adaptation with teacher-student learning for endoscopic instrument segmentation” received "__Machine Learning for CAI : Honorary Mention__" and "__Audience Award for Best Innovation : Honorary Mention__" at __IPCAI 2021__.
 * __[24.Feb.2021]__ Paper “Simulation-to-Real domain adaptation with teacher-student learning for endoscopic instrument segmentation” accepted at __IPCAI 2021__.
