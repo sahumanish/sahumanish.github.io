@@ -37,6 +37,10 @@ Work experience
 
 Education
 ======
+* Present: Doctoral Candidate - Computer Vision
+  * Technical University Berlin, Berlin (Germany)
+  * Focus: Vision-based surgical activity recognition and scene understanding
+
 * 2012 – 2015: MSc Electrical Engineering and Information Technology
   * Otto-von-Guericke University, Magdeburg (Germany)  
   * Focus: Digital Information Processing ▪ Speech Recognition ▪ Medical Imaging
@@ -57,5 +61,5 @@ Conference Presentation
 
 Technical Reviewer
 ======
-* Journal: IEEE-BHI ▪ IEEE-VIS ▪ IJCARS
+* Journal: IJCARS ▪ IEEE-VIS ▪ IEEE-BHI
 * Conference: MICCAI
