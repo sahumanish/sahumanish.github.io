@@ -2,7 +2,7 @@
 layout: archive
 title: "Contact"
 permalink: /contact/
-author_profile: true
+author_profile: false
 ---
 Zuse Institute Berlin<br>
 Research group: Computational Diagnosis and Therapy Planning<br>
