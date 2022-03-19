@@ -18,7 +18,10 @@ redirect_from:
 
 Work experience
 ======
-* Oct.2015 – Present: Research Associate
+* Feb.2022 – Present: Postdoctoral Researcher
+  * Johns Hopkins University (JHU), Baltimore (USA) 
+  
+* Oct.2015 – Dec.2021: Research Associate
   * Zuse Institute Berlin (ZIB), Berlin (Germany) 
   * Duties included: Research and development of intelligent diagnostic and navigation assistance tools in the operating room
 
@@ -37,9 +40,9 @@ Work experience
 
 Education
 ======
-* Present: Doctoral Candidate - Computer Vision
+* 2022: PhD (Dr.-Ing.) Electrical Engineering and Computer Science
   * Technical University Berlin, Berlin (Germany)
-  * Focus: Vision-based surgical activity recognition and scene understanding
+  * Focus: Vision-based context-awareness in minimally invasive surgical video streams
 
 * 2012 – 2015: MSc Electrical Engineering and Information Technology
   * Otto-von-Guericke University, Magdeburg (Germany)  
@@ -61,5 +64,5 @@ Conference Presentation
 
 Technical Reviewer
 ======
-* Journal: IJCARS ▪ IEEE-VIS ▪ IEEE-BHI
+* Journal: IJCARS ▪ IEEE-VIS ▪ IEEE-BHI ▪ IEEE-TMI
 * Conference: MICCAI
