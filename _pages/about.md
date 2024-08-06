@@ -30,13 +30,20 @@ For a comprehensive list of publications, please refer to my [Google Scholar](ht
 * One paper accepted at Otolaryngology–Head and Neck Surgery
 * Four papers accepted at IPCAI2023
 * Successfully defended my doctoral thesis “Vision-based context-awareness in minimally invasive surgical video streams” at __Technische Universität Berlin__.
-* Paper “Simulation-to-Real domain adaptation with teacher-student learning for endoscopic instrument segmentation” received "__Machine Learning for CAI Award: Honorary Mention__" and "__Audience Award for Best Innovation : Honorary Mention__" at __IPCAI 2021__.
 * One paper accepted at __IPCAI 2021__.
 * Patent “Device and method for controlling a system comprising an imaging modality” approved
 * One paper accepted at MedIA
 * One paper accepted at __MICCAI 2020__.
 * One paper accepted at CDBE
 * One paper accepted at MedIA
+
+## Selected awards
+
+* Best innovation award for paper at MRC Symposium 2024 (joint first author)
+* Young Investigator Award for paper at IPCAI2023 (corresponding author)
+* Audience Award for Best Innovation : Honorary mention at at IPCAI 2021
+* Machine Learning for CAI Award : Honorary mention at IPCAI 2021
+* Runner-up: Surgical Tool Presence Detection Challenge at MICCAI - M2CAI 2016 
 
 
 
