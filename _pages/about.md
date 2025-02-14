@@ -11,7 +11,7 @@ redirect_from:
 
 # About Me
 
-I am an Assistant Research Scientist, and affiliate research faculty in the [Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/) of the Johns Hopkins University (JHU).  
+I am an Assistant Research Professor, affiliated with the [Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/) of the Johns Hopkins University (JHU).  
 
 My research interests lie in the interdisciplinary field of computer vision, machine learning, medical image analysis and surgical robotics aiming to create synergistic advancement of collaborative intelligent assistant systems for various healthcare applications.
 
@@ -22,11 +22,14 @@ For a comprehensive list of publications, please refer to my [Google Scholar](ht
 
 ## News
 
+* One paper accepted to IPCAI2025
 * One paper accepted to IEEE-TMRB 2024
 * One paper accepted at Otolaryngology–Head and Neck Surgery
 * Three papers accepted at IPCAI2024
 * One paper accepted at Otolaryngology–Head and Neck Surgery
 * One paper accepted to IEEE-ICRA 2024
+
+<!---
 * One paper accepted at Otolaryngology–Head and Neck Surgery
 * Four papers accepted at IPCAI2023
 * Successfully defended my doctoral thesis “Vision-based context-awareness in minimally invasive surgical video streams” at __Technische Universität Berlin__.
@@ -36,6 +39,8 @@ For a comprehensive list of publications, please refer to my [Google Scholar](ht
 * One paper accepted at __MICCAI 2020__.
 * One paper accepted at CDBE
 * One paper accepted at MedIA
+## Facts
+-->
 
 ## Selected awards
 
